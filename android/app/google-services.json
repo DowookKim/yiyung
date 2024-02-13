@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784725778735",
+    "project_id": "login-soda",
+    "storage_bucket": "login-soda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784725778735:android:a7c11e0a0c39ee7d4f81da",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYC3FdWJcCzPxUrQLRrynUHlDWp1YUvsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

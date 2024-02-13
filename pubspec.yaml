@@ -92,5 +92,12 @@ flutter:
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
   #
+  fonts:
+    - family: Kangwonedu
+      fonts:
+        - asset: assets/fonts/강원교육모두 Light.otf
+          weight: 100
+        - asset: assets/fonts/강원교육모두 Bold.otf
+          weight: 200
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

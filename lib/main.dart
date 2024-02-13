@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:login/firebase_options.dart';
-import 'package:login/screens/main_screen.dart';
+import 'package:login/login/login.dart';
 
 //import 'package:yummy_chat_lecture1/screens/main_screen.dart';
 void main() async{

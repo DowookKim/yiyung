@@ -1,10 +1,9 @@
 
 import 'package:flutter/material.dart';
-import 'package:login/config/palette.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:login/screens/chat_screen.dart';
+import 'package:login/login/randomcode.dart';
 import 'dart:math';
-import 'package:login/screens/main_screen.dart';
+import 'package:login/login/login.dart';
 
 class LoginSignupScreen extends StatefulWidget {
   const LoginSignupScreen({super.key});
